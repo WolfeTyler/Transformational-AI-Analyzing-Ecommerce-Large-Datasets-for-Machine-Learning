@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Tyler Wolfe
+—————————————-
+
+Question 1: There are titles, ratings, asin info on the product.
+Question 2: Yes it was
+Question 3: You can see more of the columns and data now without wrapping
+Question 4: Averaged ratings, etc. aggregated metrics
+Question 5: Info and head can both provide valueable information about what the overall data looks like including, samples, datatypes, etc.
+Question 6: Cheaper items are likely more common and therefore more frequently rated, with the exception of very expensive items at the end of the distribution
+Question 7: There are very few ratings for higher priced products with a large exception in the tail high end of pricing
